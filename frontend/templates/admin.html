@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - LuxeRings</title>
+    <link rel="stylesheet" href="/static/css/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="admin-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fas fa-gem"></i>
+                <span>LuxeRings Admin</span>
+            </div>
+            <nav class="admin-nav">
+                <a href="#dashboard" class="nav-item active" onclick="showSection('dashboard')">
+                    <i class="fas fa-chart-line"></i> Dashboard
+                </a>
+                <a href="#catalog" class="nav-item" onclick="showSection('catalog')">
+                    <i class="fas fa-ring"></i> Catalog
+                </a>
+                <a href="#orders" class="nav-item" onclick="showSection('orders')">
+                    <i class="fas fa-shopping-bag"></i> Orders
+                </a>
+                <a href="#settings" class="nav-item" onclick="showSection('settings')">
+                    <i class="fas fa-cog"></i> Settings
+                </a>
+            </nav>
+            <div class="sidebar-footer">
+                <a href="/" class="btn-back">
+                    <i class="fas fa-arrow-left"></i> Back to Store
+                </a>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="admin-main">
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="admin-section active">
+                <h1>Dashboard</h1>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fas fa-ring"></i></div>
+                        <div class="stat-info">
+                            <h3 id="totalRings">0</h3>
+                            <p>Total Rings</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fas fa-shopping-cart"></i></div>
+                        <div class="stat-info">
+                            <h3 id="totalOrders">0</h3>
+                            <p>Total Orders</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fas fa-dollar-sign"></i></div>
+                        <div class="stat-info">
+                            <h3 id="totalRevenue">$0</h3>
+                            <p>Total Revenue</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fas fa-database"></i></div>
+                        <div class="stat-info">
+                            <h3 id="catalogLoaded">0</h3>
+                            <p>Catalog Indexed</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="action-cards">
+                    <div class="action-card">
+                        <h3><i class="fas fa-upload"></i> Build Catalog</h3>
+                        <p>Import rings from your images folder</p>
+                        <div class="form-group">
+                            <label>Images Folder Path:</label>
+                            <input type="text" id="catalogFolder" value="catalog_images" placeholder="catalog_images">
+                        </div>
+                        <button class="btn btn-primary" onclick="buildCatalog()">
+                            <i class="fas fa-sync"></i> Build Catalog
+                        </button>
+                        <div id="buildStatus" class="status-message"></div>
+                    </div>
+
+                    <div class="action-card">
+                        <h3><i class="fas fa-info-circle"></i> System Info</h3>
+                        <p>Current system status and configuration</p>
+                        <ul class="info-list">
+                            <li><strong>API Status:</strong> <span class="status-badge status-active">Active</span></li>
+                            <li><strong>Search Engine:</strong> <span class="status-badge status-active">Loaded</span></li>
+                            <li><strong>Database:</strong> <span class="status-badge status-active">Connected</span></li>
+                        </ul>
+                        <button class="btn btn-secondary" onclick="refreshStats()">
+                            <i class="fas fa-sync-alt"></i> Refresh Stats
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Catalog Section -->
+            <section id="catalog" class="admin-section">
+                <h1>Catalog Management</h1>
+                <div class="section-header">
+                    <div class="search-box">
+                        <input type="text" id="catalogSearch" placeholder="Search rings...">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <button class="btn btn-primary" onclick="showSection('dashboard')">
+                        <i class="fas fa-plus"></i> Add Ring
+                    </button>
+                </div>
+
+                <div class="table-container">
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th>Ring ID</th>
+                                <th>Name</th>
+                                <th>Price</th>
+                                <th>Gemstone</th>
+                                <th>Metal</th>
+                                <th>Stock</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="catalogTableBody">
+                            <tr>
+                                <td colspan="8" class="text-center">
+                                    <i class="fas fa-spinner fa-spin"></i> Loading...
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Orders Section -->
+            <section id="orders" class="admin-section">
+                <h1>Order Management</h1>
+                <div class="table-container">
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th>
+                                <th>Customer</th>
+                                <th>Email</th>
+                                <th>Total</th>
+                                <th>Status</th>
+                                <th>Date</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="ordersTableBody">
+                            <tr>
+                                <td colspan="7" class="text-center">No orders yet</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Settings Section -->
+            <section id="settings" class="admin-section">
+                <h1>Settings</h1>
+                <div class="settings-grid">
+                    <div class="settings-card">
+                        <h3>Store Settings</h3>
+                        <div class="form-group">
+                            <label>Store Name</label>
+                            <input type="text" value="LuxeRings">
+                        </div>
+                        <div class="form-group">
+                            <label>Contact Email</label>
+                            <input type="email" value="info@luxerings.com">
+                        </div>
+                        <div class="form-group">
+                            <label>Contact Phone</label>
+                            <input type="tel" value="+1 (555) 123-4567">
+                        </div>
+                        <button class="btn btn-primary">Save Settings</button>
+                    </div>
+
+                    <div class="settings-card">
+                        <h3>Search Settings</h3>
+                        <div class="form-group">
+                            <label>Minimum Match Score</label>
+                            <input type="number" value="0.3" step="0.1" min="0" max="1">
+                        </div>
+                        <div class="form-group">
+                            <label>Results Per Search</label>
+                            <input type="number" value="10" min="1" max="50">
+                        </div>
+                        <button class="btn btn-primary">Save Settings</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/js/admin.js"></script>
+</body>
+</html>

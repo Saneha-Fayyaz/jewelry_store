@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Database files
+*.db
+*.sqlite3
+jewelry_store.db
+
+# Search catalog
+catalog.json
+
+# Uploads and generated content
+uploads/
+backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp

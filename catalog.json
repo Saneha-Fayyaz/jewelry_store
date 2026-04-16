@@ -318,7 +318,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -479,7 +479,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -640,7 +640,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -962,7 +962,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -1123,7 +1123,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -1606,7 +1606,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -1767,7 +1767,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -1928,7 +1928,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -2089,7 +2089,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -2250,7 +2250,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -2411,7 +2411,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -2572,7 +2572,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -2894,7 +2894,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -3055,7 +3055,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -3216,7 +3216,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -3377,7 +3377,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -3699,7 +3699,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -4182,7 +4182,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -4343,7 +4343,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -4504,7 +4504,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -4665,7 +4665,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -4826,7 +4826,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -4987,7 +4987,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -5148,7 +5148,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -5470,7 +5470,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -5631,7 +5631,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -6114,7 +6114,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -6275,7 +6275,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -6758,7 +6758,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -6919,7 +6919,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -7241,7 +7241,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -7563,7 +7563,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -7885,7 +7885,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -8046,7 +8046,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -8207,7 +8207,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -8368,7 +8368,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -8690,7 +8690,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -8851,7 +8851,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -9012,7 +9012,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -9656,7 +9656,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -9817,7 +9817,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -9978,7 +9978,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -10139,7 +10139,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -10622,7 +10622,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -10783,7 +10783,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -11105,7 +11105,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -11427,7 +11427,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -11588,7 +11588,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -12071,7 +12071,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -12393,7 +12393,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -12554,7 +12554,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -12715,7 +12715,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -13037,7 +13037,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -13198,7 +13198,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -13842,7 +13842,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -14003,7 +14003,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -14325,7 +14325,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -14486,7 +14486,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -14647,7 +14647,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -14808,7 +14808,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -15130,7 +15130,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -15291,7 +15291,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -15613,7 +15613,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -15774,7 +15774,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -15935,7 +15935,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -16096,7 +16096,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -16579,7 +16579,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -16740,7 +16740,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -17223,7 +17223,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -17384,7 +17384,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -17706,7 +17706,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -17867,7 +17867,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -18189,7 +18189,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -18833,7 +18833,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -19155,7 +19155,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -19316,7 +19316,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -19638,7 +19638,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -19960,7 +19960,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -20121,7 +20121,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -20282,7 +20282,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -20765,7 +20765,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -20926,7 +20926,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -21087,7 +21087,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -21409,7 +21409,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -21570,7 +21570,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -21731,7 +21731,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -21892,7 +21892,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -22214,7 +22214,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -22375,7 +22375,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -22536,7 +22536,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -22858,7 +22858,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -23180,7 +23180,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -23663,7 +23663,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -23824,7 +23824,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -24146,7 +24146,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -24307,7 +24307,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -24790,7 +24790,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -24951,7 +24951,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -25112,7 +25112,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -25273,7 +25273,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -25434,7 +25434,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -25595,7 +25595,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -26078,7 +26078,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -26239,7 +26239,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -26400,7 +26400,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -26722,7 +26722,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -26883,7 +26883,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -27205,7 +27205,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -27527,7 +27527,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -27688,7 +27688,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -27849,7 +27849,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -28010,7 +28010,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -28171,7 +28171,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -28332,7 +28332,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -28654,7 +28654,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -28815,7 +28815,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -29137,7 +29137,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -29298,7 +29298,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -29459,7 +29459,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -29620,7 +29620,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -29942,7 +29942,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -30103,7 +30103,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -30747,7 +30747,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -30908,7 +30908,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -31230,7 +31230,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -31391,7 +31391,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -31552,7 +31552,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -32035,7 +32035,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -32196,7 +32196,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -32518,7 +32518,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -32679,7 +32679,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -33001,7 +33001,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -33162,7 +33162,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -33323,7 +33323,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -33484,7 +33484,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -33806,7 +33806,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -33967,7 +33967,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -34128,7 +34128,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -34289,7 +34289,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -34450,7 +34450,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -34611,7 +34611,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -35094,7 +35094,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -35255,7 +35255,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -35416,7 +35416,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 1,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -35577,7 +35577,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "rose-gold",
         "stock_quantity": 10
       }
     },
@@ -35738,7 +35738,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -35899,7 +35899,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 4,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -36060,7 +36060,7 @@
         "gemstone_type": "diamond",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "white-gold",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -36382,7 +36382,7 @@
         "gemstone_type": "sapphire",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "platinum",
+        "metal_type": "yellow-gold",
         "stock_quantity": 10
       }
     },
@@ -36543,7 +36543,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 3,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -36865,7 +36865,7 @@
         "gemstone_type": "ruby",
         "gemstone_count": 5,
         "gemstone_color": "white",
-        "metal_type": "yellow-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     },
@@ -37187,7 +37187,7 @@
         "gemstone_type": "emerald",
         "gemstone_count": 2,
         "gemstone_color": "white",
-        "metal_type": "rose-gold",
+        "metal_type": "white-gold",
         "stock_quantity": 10
       }
     }

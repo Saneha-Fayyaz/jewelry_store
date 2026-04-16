@@ -7,3 +7,11 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.12
+      - key: FLASK_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true  # Render will auto-generate a secure key
+      - key: CATALOG_PATH
+        value: /opt/render/project/src/catalog.json
+      - key: DB_PATH
+        value: /opt/render/project/src/jewelry_store.db
